@@ -4,30 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0c3f8ec-e479-47ff-b499-ba36d8b5fe3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA-Preparation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayandarraylist/arrayList/Basic_Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayandarraylist/arrayList/CompareTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayandarraylist/arrayList/PlusMinus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayandarraylist/arrayList/Remove_Even_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayandarraylist/arrays/FindPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayandarraylist/arrays/GreaterItself.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayandarraylist/arrays/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayandarraylist/arrays/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayandarraylist/arrays/PrintColumns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayandarraylist/arrays/PrintReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayandarraylist/arrays/PrintRows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayandarraylist/arrays/PrintRowsColumns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayandarraylist/arrays/ReadingNewspaper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayandarraylist/arrays/SumMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayandarraylist/arrays/SumTwoDarrays.java" afterDir="false" />
+    <list default="true" id="a0c3f8ec-e479-47ff-b499-ba36d8b5fe3a" name="Changes" comment="Problems solved on arrays and arraylist">
+      <change afterPath="$PROJECT_DIR$/src/hashmapandhashset/hashmap/Basic_Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashmapandhashset/hashmap/GetCommonElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashmapandhashset/hashmap/Max_Fre_Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashmapandhashset/hashset/Basic_Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashmapandhashset/hashset/FirstRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashmapandhashset/hashset/LongestConsecutiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/AddLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/CreateLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/InsertLLFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/InsertLLLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/LengthLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/PrintLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/LENOVO/IdeaProjects/DSA-Preparation/src/arrayandarraylist",
+    "last_opened_file_path": "C:/Users/LENOVO/IdeaProjects/recursion",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,6 +60,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\IdeaProjects\DSA-Preparation\src\linkedlist" />
+      <recent name="C:\Users\LENOVO\IdeaProjects\DSA-Preparation\src\hashmapandhashset" />
       <recent name="C:\Users\LENOVO\IdeaProjects\DSA-Preparation\src\arrayandarraylist" />
       <recent name="C:\Users\LENOVO\IdeaProjects\DSA-Preparation\src\arrayandarraylist\arrayList" />
     </key>
@@ -81,11 +74,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683561152570</updated>
-      <workItem from="1683561155160" duration="830000" />
+      <workItem from="1683561155160" duration="4421000" />
+      <workItem from="1683608890904" duration="550000" />
     </task>
+    <task id="LOCAL-00001" summary="Problems solved on arrays and arraylist">
+      <created>1683562088770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683562088770</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Problems solved on arrays and arraylist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problems solved on arrays and arraylist" />
   </component>
 </project>
