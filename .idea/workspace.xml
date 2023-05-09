@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0c3f8ec-e479-47ff-b499-ba36d8b5fe3a" name="Changes" comment="problem solutions added">
+    <list default="true" id="a0c3f8ec-e479-47ff-b499-ba36d8b5fe3a" name="Changes" comment="Sorting problems">
+      <change afterPath="$PROJECT_DIR$/src/stacksandqueues/Queue/AddLast_RemoveFirst_LikedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stacksandqueues/Queue/Basic_Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stacksandqueues/Stack/AddRemoveFirst_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stacksandqueues/Stack/Basic_Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stacksandqueues/Stack/Revers_K_Elements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/MergeTwoSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/MergeTwoSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/LENOVO/IdeaProjects/sorting",
+    "last_opened_file_path": "C:/Users/LENOVO/IdeaProjects/strings",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,12 +53,32 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\IdeaProjects\DSA-Preparation\src\stacksandqueues" />
+      <recent name="C:\Users\LENOVO\IdeaProjects\DSA-Preparation\src\sorting" />
       <recent name="C:\Users\LENOVO\IdeaProjects\DSA-Preparation\src\recursion" />
       <recent name="C:\Users\LENOVO\IdeaProjects\DSA-Preparation\src\linkedlist" />
       <recent name="C:\Users\LENOVO\IdeaProjects\DSA-Preparation\src\hashmapandhashset" />
-      <recent name="C:\Users\LENOVO\IdeaProjects\DSA-Preparation\src\arrayandarraylist" />
-      <recent name="C:\Users\LENOVO\IdeaProjects\DSA-Preparation\src\arrayandarraylist\arrayList" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MergeTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.MergeTwoSortedArray" />
+      <module name="DSA-Preparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MergeTwoSortedArray" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,7 +90,7 @@
       <updated>1683561152570</updated>
       <workItem from="1683561155160" duration="4421000" />
       <workItem from="1683608890904" duration="1227000" />
-      <workItem from="1683610375763" duration="577000" />
+      <workItem from="1683610375763" duration="3447000" />
     </task>
     <task id="LOCAL-00001" summary="Problems solved on arrays and arraylist">
       <created>1683562088770</created>
@@ -80,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683610051331</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Sorting problems">
+      <created>1683611340201</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683611340201</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Problems solved on arrays and arraylist" />
     <MESSAGE value="problem solutions added" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem solutions added" />
+    <MESSAGE value="Sorting problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sorting problems" />
   </component>
 </project>
